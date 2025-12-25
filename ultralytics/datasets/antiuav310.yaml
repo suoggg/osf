@@ -1,0 +1,8 @@
+path: /data/users/qinhaolin01/TIP/OSFormer/datasets/antiuav310
+# train: few.txt
+# val: few.txt 
+train: trainval.txt
+val: test.txt
+
+names:
+  0: uav
